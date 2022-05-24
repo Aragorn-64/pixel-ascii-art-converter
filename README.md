@@ -3,13 +3,13 @@ Project that can convert Pixel art to ASCII character art for a chosen character
 
 To do:
 [ ] Conversion : Pixel to 2d matrix 
-    [ ] Basics
-    [ ] Optimize
-    [ ] Add shading feature
+   [ ] Basics
+   [ ] Optimize
+   [ ] Add shading feature
 [ ] Processing and output :
-    [ ] Char choices
-    [ ] Resolution calc
-    [ ] Optimize
-    [ ] Add shading feature
+   [ ] Char choices
+   [ ] Resolution calc
+   [ ] Optimize
+   [ ] Add shading feature
 [ ] Write proper Readme.md
 [ ] Work on live feature website for v2
